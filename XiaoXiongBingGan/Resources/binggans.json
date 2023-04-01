@@ -1,0 +1,51 @@
+[
+    {
+        "name":"New Chat",
+        "id":1001,
+        "description":"Start a new chat",
+        "type":"newChat",
+        "imageName":"chevron.right"
+    },
+    {
+        "name":"ChatGPT-3",
+        "id":1002,
+        "description":"Try ChatGPT-3",
+        "type":"GPT3",
+        "imageName":"chevron.right"
+    },
+    {
+        "name":"ChatGPT-4",
+        "id":1003,
+        "description":"Try ChatGPT-4",
+        "type":"GPT4",
+        "imageName":"chevron.right"
+    },
+    {
+        "name":"Robot",
+        "id":1004,
+        "description":"Try your personal robot",
+        "type":"robot",
+        "imageName":"chevron.right"
+    },
+    {
+        "name":"Advance",
+        "id":1005,
+        "description":"",
+        "type":"advance",
+        "imageName":"chevron.right"
+    },
+    {
+        "name":"Settings",
+        "id":1006,
+        "description":"",
+        "type":"setting",
+        "imageName":"chevron.right"
+    },
+    {
+        "name":"About",
+        "id":1007,
+        "description":"",
+        "type":"about",
+        "imageName":"chevron.right"
+    }
+]
